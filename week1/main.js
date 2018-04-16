@@ -69,8 +69,8 @@ console.log(notYellowCar);
 function convertToDanish (car) {
     return {
         maerke: car.make,
-        fart: car.speed,
-        farve: car.speed
+        farve: car.color,
+	fart: car.speed,
     }
 }
 
