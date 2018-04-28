@@ -65,7 +65,7 @@ function threeAndFive(startValue, endValue, callThree, callFive) {
         return array;
     }
     let newArray = createArray(10,15); 
-    console.log('Q1:-  Generate an array ' , newArray)
+    console.log(newArray)
 }
 
 function sayThree(item){
